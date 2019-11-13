@@ -1,0 +1,54 @@
+0 – Thyroid
+1 – Testis
+46 – Adrenal Gland
+2 – Brain - Anterior cingulate cortex (BA24)
+3 – Skin - Not Sun Exposed (Suprapubic)
+40 – Ovary
+4 – Vagina
+5 – Heart - Atrial Appendage
+39 – Brain - Nucleus accumbens (basal ganglia)
+7 – Esophagus - Muscularis
+18 – Brain - Cerebellar Hemisphere
+9 – Small Intestine - Terminal Ileum
+10 – Breast - Mammary Tissue
+11 – Cervix - Ectocervix
+12 – Stomach
+13 – Fallopian Tube
+14 – Brain - Cerebellum
+16 – Esophagus - Mucosa
+17 – Bladder
+8 – Brain - Putamen (basal ganglia)
+19 – Artery - Coronary
+20 – Liver
+21 – Esophagus - Gastroesophageal Junction
+22 – Brain - Hypothalamus
+23 – Colon - Transverse
+24 – Prostate
+25 – Brain - Amygdala
+26 – Pancreas
+27 – Adipose - Subcutaneous
+29 – Skin - Sun Exposed (Lower leg)
+30 – Spleen
+32 – Brain - Hippocampus
+42 – Whole Blood
+34 – Brain - Cortex
+49 – Artery - Tibial
+37 – Brain - Spinal cord (cervical c-1)
+38 – Uterus
+15 – Cervix - Endocervix
+6 – Brain - Caudate (basal ganglia)
+41 – Minor Salivary Gland
+43 – Artery - Aorta
+33 – Heart - Left Ventricle
+36 – Kidney - Cortex
+51 – Nerve - Tibial
+44 – Brain - Frontal Cortex (BA9)
+45 – Adipose - Visceral (Omentum)
+28 – Cells - Leukemia cell line (CML)
+47 – Lung
+48 – Cells - Transformed fibroblasts
+35 – Muscle - Skeletal
+50 – Colon - Sigmoid
+31 – Pituitary
+52 – Brain - Substantia nigra
+53 – Cells - EBV-transformed lymphocytes
